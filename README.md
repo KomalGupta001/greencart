@@ -27,11 +27,11 @@ Now Open Client Folder in Integrated Terminal & use Below Commands
 7. Deploy Frontend  
    a. Deploy Frontend on Vercel
    b. Add Frontend URL as Origin
-   c. Then redeploy the backend project 
+   c. Then redeploy the backend project
+   
   <img width="1920" height="1080" alt="greencart_webpage" src="https://github.com/user-attachments/assets/5077f487-fc8d-4c05-a6d1-d4a3e098892a" />
-
-
-
+  
+  <img width="1920" height="1080" alt="greencart_webpage2" src="https://github.com/user-attachments/assets/ee5afe47-6c68-4bf9-be4f-23839265c926" />
 
 
    
